@@ -1,10 +1,10 @@
-primary_name: "Khong Duc Tien"
+primary_name: "Duc-Tien Khong"
 secondary_name: ""
-navbar_name: "Khong Duc Tien"
+navbar_name: "Duc-Tien Khong"
 
 positions:
-- name: Undergraduate Student, Honors Program in Computer Science
-- name: VNU-HCM, University of Science (HCMUS)
+- name: Undergraduate Student
+- name: University of Science, VNU-HCM
 
 email: "kductien712@gmail.com"
 github: dwctien
@@ -13,42 +13,35 @@ linkedin: dwctien
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a third-year Computer Science undergraduate (Honors Program) at the University of Science, VNU-HCM, in Ho Chi Minh City.
-    I am a research student at the Multimedia Synergy Lab, supervised by Dr. Trung-Nghia Le.
+    I am a final-year undergraduate in the Honors Program at the <a href="https://www.fit.hcmus.edu.vn/" target="_blank">Faculty of Information Technology</a>, University of Science, VNU-HCM.
+    I am also a research student at the Multimedia Synergy Lab, supervised by <a href="https://ltnghia.github.io/" target="_blank">Dr. Trung-Nghia Le</a>.
   </p>
   <p>
-    My research interests are in image generation, currently focusing on faithful and culturally grounded synthesis.
-    My undergraduate thesis studies text-to-image generation of rare cultural concepts.
+    I have a passion for scientific research, particularly in image generation with diffusion models.
+    Currently, I am interested in making generated images faithful to culturally grounded concepts.
   </p>
 
 education:
-- name: VNU-HCM, University of Science (HCMUS)
+- name: University of Science, VNU-HCM
   logo: /assets/images/logos/hcmus.png
   position: >-
-    B.S. in Computer Science, Honors Program <br/>
-    CGPA 9.37/10 (3.93/4.00)
-  date: Sep. 2023 - Aug. 2027 (expected)
-- name: Le Quy Don High School for the Gifted
-  logo: /assets/images/logos/lqd.png
-  position: Major in Physics
-  date: Sep. 2020 - Jun. 2023
+    Faculty of Information Technology, Honors Program
+  date: Sep. 2023 - present
 
 experience:
 - name: Multimedia Synergy Lab, HCMUS
-  position: Research Student, supervised by Dr. Trung-Nghia Le
+  logo: /assets/images/logos/mslab.png
+  position: Research Student
   date: Jul. 2026 - present
 
 awards:
-- name: Potential Prize (top 7% of 800+ teams), Ho Chi Minh City AI Challenge
+- name: Potential Prize, Ho Chi Minh City AI Challenge
   date: 2026
-- name: Dean's List, Faculty of Information Technology, HCMUS
+- name: Dean's List, FIT, HCMUS
   date: 2023-2025
-- name: University Academic Excellence Scholarship (4 semesters)
+- name: Academic Excellence Scholarship (4 semesters)
   date: 2023-2025
-- name: Career Pathway Scholarship, sponsored by ELCA
+- name: Career Preparation Scholarship, sponsored by ELCA
   date: 2024
 
-# Placeholder portrait (cat photo by Manja Vitolic on Unsplash); replace with a real photo later.
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash
+portrait_url: /assets/images/photos/portrait-1.jpg
