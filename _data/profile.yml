@@ -23,11 +23,13 @@ short_bio: >-
 
 education:
 - name: VNU-HCM, University of Science (HCMUS)
+  logo: /assets/images/logos/hcmus.png
   position: >-
     B.S. in Computer Science, Honors Program <br/>
     CGPA 9.37/10 (3.93/4.00)
   date: Sep. 2023 - Aug. 2027 (expected)
 - name: Le Quy Don High School for the Gifted
+  logo: /assets/images/logos/lqd.png
   position: Major in Physics
   date: Sep. 2020 - Jun. 2023
 
